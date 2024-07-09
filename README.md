@@ -9,3 +9,8 @@ Predecir ubicacion con imagenes de street view
    -Abrir el archivo "creacion_del_dataset" en colab y ejecutar (se debe tener una api_key de google propia)
 
 Modelos: InceptionV3 ( pesos de Imagenet )
+
+
+Enlace presentacion: https://www.canva.com/design/DAF_sPLIKZQ/c4zNNWx_rpmeV3LSJvv4_w/edit?utm_content=DAF_sPLIKZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Enlace video: [https://youtu.be/S7exFeI_xck ](https://youtu.be/S7exFeI_xck)
