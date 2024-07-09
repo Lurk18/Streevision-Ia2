@@ -6,7 +6,9 @@ Autores: Andrea Juliana Parra Ariza, Miguel Santiago Henao Alvarado
 Predecir ubicacion con imagenes de street view
 
 *Instrucciones de descarga del dataset*
-   -Abrir el archivo "creacion_del_dataset" en colab y ejecutar (se debe tener una api_key de google propia)
+   -Abrir el archivo "creacion_del_dataset" en colab y ejecutar (se debe tener una api_key de google propia) 
+
+   Sino es posible por ese metodo , se puede descargar directamente de nuestro drive:  https://drive.google.com/drive/folders/1uyC8ZrTEhl8YvcLcm3KFHeoEjNsXGOz2?usp=sharing 
 
 Modelos: InceptionV3 ( pesos de Imagenet )
 
